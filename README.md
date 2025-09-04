@@ -1,4 +1,4 @@
-#  E-Commerce AI Chatbot
+#  **E-Commerce AI Chatbot**
 
 A full-stack Conversational AI Chatbot for an E-commerce Clothing Platform built with **React**, **FastAPI**, and **PostgreSQL**. This chatbot can:
 
